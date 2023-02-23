@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm slimane mesbah</h1>
-<h3 align="center">Student at university paris saclay - ldd3 info/math</h3>
+<h3 align="center">Student at university paris saclay - Data scientist</h3>
 
 <br>
 
